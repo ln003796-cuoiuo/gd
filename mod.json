@@ -1,0 +1,16 @@
+{
+    "geode": "4.0.0",
+    "gd": {
+        "win": "2.2074",
+        "mac": "2.2074",
+        "android": "2.2074"
+    },
+    "id": "yourname.gd_ai_bot",
+    "name": "GD AI Bot",
+    "version": "1.0.0",
+    "developer": "YourName",
+    "description": "AI that plays Geometry Dash levels and generates macros",
+    "resources": {
+        "files": []
+    }
+}
